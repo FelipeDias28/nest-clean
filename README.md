@@ -84,3 +84,39 @@ $ npm i eslint @rocketseat/eslint-config -D
 
 $ npm run lint
 ```
+
+## Comando start docker
+
+```bash
+$  docker-compose up -d
+```
+
+## Install CLI Prisma (ORM)
+
+```bash
+$  npm i prisma -D
+```
+
+## Install Client Prisma
+
+```bash
+$  npm i @prisma/client
+```
+
+## Init Prisma
+
+```bash
+$  npx prisma init 
+```
+
+## Run migrate
+
+```bash
+$  npx prisma migrate dev 
+```
+
+## Show Database
+
+```bash
+$  npx prisma studio
+```
