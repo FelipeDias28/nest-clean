@@ -136,3 +136,7 @@ Validação de campos
 $  npm i zod
 $  npm i zod-validation-error
 ```
+
+## Rest Clien
+É uma extensão VSCode para expor as requisições
+Somente instalar no vscode
