@@ -120,3 +120,10 @@ $  npx prisma migrate dev
 ```bash
 $  npx prisma studio
 ```
+
+## Install Bcrypt
+
+```bash
+$  npm i bcryptjs
+$  npm i @types/bcryptjs -D
+```
