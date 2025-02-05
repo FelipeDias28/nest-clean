@@ -122,8 +122,17 @@ $  npx prisma studio
 ```
 
 ## Install Bcrypt
+Criptografia de senha
 
 ```bash
 $  npm i bcryptjs
 $  npm i @types/bcryptjs -D
+```
+
+## Install Zod
+Validação de campos
+
+```bash
+$  npm i zod
+$  npm i zod-validation-error
 ```
