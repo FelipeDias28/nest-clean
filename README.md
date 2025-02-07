@@ -140,3 +140,10 @@ $  npm i zod-validation-error
 ## Rest Clien
 É uma extensão VSCode para expor as requisições
 Somente instalar no vscode
+
+## Config Module
+Serve para configurar valores que serão usandos na aplicação inteira
+
+```bash
+$  npm i @nestjs/config
+```
