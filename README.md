@@ -147,3 +147,17 @@ Serve para configurar valores que serão usandos na aplicação inteira
 ```bash
 $  npm i @nestjs/config
 ```
+
+## Install Passport
+Uma lib para ajudar na autenticação
+
+```bash
+$   npm i @nestjs/passport
+```
+
+## Install Jwt
+Uma lib de autenticação
+
+```bash
+$   npm i @nestjs/jwt
+```
