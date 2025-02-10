@@ -154,6 +154,13 @@ Uma lib para ajudar na autenticação
 ```bash
 $   npm i @nestjs/passport
 ```
+```bash
+$   npm i passport-jwt
+```
+
+```bash
+$   npm i @types/passport-jwt -D
+```
 
 ## Install Jwt
 Uma lib de autenticação (usar algoritmo RS256, pois ele gera uma chave privada e uma pública)
