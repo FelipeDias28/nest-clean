@@ -156,8 +156,22 @@ $   npm i @nestjs/passport
 ```
 
 ## Install Jwt
-Uma lib de autenticação
+Uma lib de autenticação (usar algoritmo RS256, pois ele gera uma chave privada e uma pública)
+
+A criação dessas chaves pode ser feita com a ajuda do chatGPT
 
 ```bash
 $   npm i @nestjs/jwt
 ```
+
+## Private and Public key generate
+Para fazer a geração dessas chaves eu pedi para o ChatGPT e rode os comandos na raiz do projeto
+
+```bash
+$  Geração de chave privada e pública RSA256 no linux
+```
+```bash
+$  converter o conteudo do arquivo para base 64 linux
+```
+
+Para acabar a aula falta 02:40
